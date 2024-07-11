@@ -351,7 +351,7 @@ public class rb
                             switch (n)
                             {
                                 case 1:
-
+                                    obj.showItem();
                                     //Addding items to menuList
 
                                     System.out.println("Enter itemName:");
